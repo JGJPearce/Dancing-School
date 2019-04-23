@@ -1,0 +1,32 @@
+body {
+	
+	background-color: #3468AF;
+}
+
+h1, h2, h3{
+	color: #1351A6;
+}
+
+.navbar-defult {
+	background-color: #5281C2;
+}
+
+.container{
+	background-color: #FFF;
+	border: 5px solid #7DA3D7;
+	border-radius: 10px;
+	box-shadow: -2px 0px 20px 8px #7DA3D7;
+	min-height: 1000px;
+}
+
+.masthead{
+	padding: 5px;
+}
+
+.content{
+	min-height: 800px;
+	padding: 10px;
+}
+.hidden { 
+	display: none;
+}
